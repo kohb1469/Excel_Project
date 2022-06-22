@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Excel_Project - An Analysis of Kickstarter Campaigns
 
 
@@ -30,3 +31,7 @@ Louis's estimated budget for her future project in Great Britain was £4,000, bu
 # Excel_Project
 Performing Analysis using Excel on Kickstarter Data to uncover Trends
 >>>>>>> 2cb5391b25cff3aefa83c8e963ca66468cc982a1
+=======
+# Excel_Project
+Performing Analysis using Excel on Kickstarter Data to uncover Trends
+>>>>>>> c6a9e3f47c2528b2fcafa39a55005a294a6c699f
