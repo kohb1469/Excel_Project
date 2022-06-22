@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b036a38f692766611eb6298bb141417273da58e6
 # Excel_Project - An Analysis of Kickstarter Campaigns
 
 
@@ -33,4 +38,7 @@ Performing Analysis using Excel on Kickstarter Data to uncover Trends
 # Excel_Project
 Performing Analysis using Excel on Kickstarter Data to uncover Trends
 >>>>>>> c6a9e3f47c2528b2fcafa39a55005a294a6c699f
+<<<<<<< HEAD
+=======
 
+>>>>>>> b036a38f692766611eb6298bb141417273da58e6
